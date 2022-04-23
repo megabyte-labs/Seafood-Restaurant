@@ -90,20 +90,17 @@
   },
   "blueprint": {
     "boilerplate": true,
-    "description": "Starting point / instructions for creating a Docker Compose / Stack repository",
+    "description": "Seafood Restaurant is a TunaSync-inspired Docker stack used to clone build dependency mirrors",
     "group": "docker",
-    "name": "Docker Compose / Stack",
-    "overview": "This repository includes generic files that are included in all of the [Megabyte Labs](https://megabyte.space) projects as well as instructions and guidelines for creating Docker Compose / Docker Stack repositories.",
+    "name": "Seafood Restaurant",
+    "overview": "This Docker stack project is intended to be an all-in-one solution for mirroring every installation / build dependency imaginable and then storing them onto a large write-protected HDD.",
     "repository": {
-      "github": "https://github.com/megabyte-labs/template-docker-compose",
-      "gitlab": "https://gitlab.com/megabyte-labs/templates/docker-compose"
+      "github": "https://github.com/megabyte-labs/Seafood-Restaurant",
+      "gitlab": "https://gitlab.com/megabyte-labs/docker/docker-compose/seafood-restaurant"
     },
-    "slug": "template-docker-compose",
+    "slug": "seafood-restaurant",
     "subgroup": "docker-compose",
-    "title": "Instructions / Template for Docker Compose Project",
-    "github_id": "R_kgDOHOUHrA",
-    "gitlab_project_id": "35586793",
-    "gitlab_group_id": "11579735"
+    "title": "Seafood Restaurant - The All-in-One Offline Mirror"
   },
   "changelog": {
     "displayTypes": [
