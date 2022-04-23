@@ -100,7 +100,10 @@
     },
     "slug": "seafood-restaurant",
     "subgroup": "docker-compose",
-    "title": "Seafood Restaurant - The All-in-One Offline Mirror"
+    "title": "Seafood Restaurant - The All-in-One Offline Mirror",
+    "github_id": "R_kgDOHOVxdw",
+    "gitlab_project_id": "35584904",
+    "gitlab_group_id": "12990668"
   },
   "changelog": {
     "displayTypes": [
