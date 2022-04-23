@@ -37,7 +37,7 @@ First of all, thanks for visiting this page 😊 ❤️ ! We are _stoked_ that y
 
 ## Code of Conduct
 
-This project and everyone participating in it is governed by the [Code of Conduct](https://github.com/megabyte-labs/template-docker-compose/blob/master/docs/CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [help@megabyte.space](mailto:help@megabyte.space).
+This project and everyone participating in it is governed by the [Code of Conduct](https://github.com/megabyte-labs/Seafood-Restaurant/blob/master/docs/CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [help@megabyte.space](mailto:help@megabyte.space).
 
 <a href="#overview" style="width:100%"><img style="width:100%" src="https://gitlab.com/megabyte-labs/assets/-/raw/master/png/aqua-divider.png" /></a>
 
@@ -300,7 +300,7 @@ We also incorporate other linters that are run automatically whenever you commit
 - [Prettier](repository.project.prettier)
 - [Shellcheck](repository.project.shellcheck)
 
-Some of the linters are also baked into the CI pipeline. The pipeline will trigger whenever you post a commit to a branch. All of these pipeline tasks must pass in order for merge requests to be accepted. You can check the status of recently triggered pipelines for this project by going to the [CI/CD pipeline page](https://gitlab.com/megabyte-labs/docker/docker-compose/template-docker-compose/-/pipelines).
+Some of the linters are also baked into the CI pipeline. The pipeline will trigger whenever you post a commit to a branch. All of these pipeline tasks must pass in order for merge requests to be accepted. You can check the status of recently triggered pipelines for this project by going to the [CI/CD pipeline page](https://gitlab.com/megabyte-labs/docker/docker-compose/seafood-restaurant/-/pipelines).
 
 <a href="#updating-meta-files-and-documentation" style="width:100%"><img style="width:100%" src="https://gitlab.com/megabyte-labs/assets/-/raw/master/png/aqua-divider.png" /></a>
 
@@ -343,7 +343,7 @@ We include a `logo.png` file in all of our projects. This image is automatically
 
 ## Pull Requests
 
-All pull requests should be associated with issues. You can find the [issues board on GitLab](https://gitlab.com/megabyte-labs/docker/docker-compose/template-docker-compose/-/issues). The pull requests should be made to [the GitLab repository](https://gitlab.com/megabyte-labs/docker/docker-compose/template-docker-compose) instead of the [GitHub repository](ProfessorManhattan/docker-template-docker-compose). This is because we use GitLab as our primary repository and mirror the changes to GitHub for the community.
+All pull requests should be associated with issues. You can find the [issues board on GitLab](https://gitlab.com/megabyte-labs/docker/docker-compose/seafood-restaurant/-/issues). The pull requests should be made to [the GitLab repository](https://gitlab.com/megabyte-labs/docker/docker-compose/seafood-restaurant) instead of the [GitHub repository](ProfessorManhattan/docker-seafood-restaurant). This is because we use GitLab as our primary repository and mirror the changes to GitHub for the community.
 
 ### How to Commit Code
 

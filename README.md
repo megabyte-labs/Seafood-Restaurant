@@ -3,7 +3,7 @@
   <a href="https://megabyte.space" title="Megabyte Labs homepage" target="_blank">
     <img alt="Homepage" src="https://img.shields.io/website?down_color=%23FF4136&down_message=Down&label=Homepage&logo=home-assistant&logoColor=white&up_color=%232ECC40&up_message=Up&url=https%3A%2F%2Fmegabyte.space&style=for-the-badge" />
   </a>
-  <a href="https://github.com/megabyte-labs/template-docker-compose/blob/master/docs/CONTRIBUTING.md" title="Learn about contributing" target="_blank">
+  <a href="https://github.com/megabyte-labs/Seafood-Restaurant/blob/master/docs/CONTRIBUTING.md" title="Learn about contributing" target="_blank">
     <img alt="Contributing" src="https://img.shields.io/badge/Contributing-Guide-0074D9?logo=github-sponsors&logoColor=white&style=for-the-badge" />
   </a>
   <a href="https://app.slack.com/client/T01ABCG4NK1/C01NN74H0LW/details/" title="Chat with us on Slack" target="_blank">
@@ -12,39 +12,39 @@
   <a href="https://gitter.im/megabyte-labs/community" title="Chat with the community on Gitter" target="_blank">
     <img alt="Gitter" src="https://img.shields.io/gitter/room/megabyte-labs/community?logo=gitter&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://github.com/megabyte-labs/template-docker-compose" title="GitHub mirror" target="_blank">
+  <a href="https://github.com/megabyte-labs/Seafood-Restaurant" title="GitHub mirror" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/Mirror-GitHub-333333?logo=github&style=for-the-badge" />
   </a>
-  <a href="https://gitlab.com/megabyte-labs/templates/docker-compose" title="GitLab repository" target="_blank">
+  <a href="https://gitlab.com/megabyte-labs/docker/docker-compose/seafood-restaurant" title="GitLab repository" target="_blank">
     <img alt="GitLab" src="https://img.shields.io/badge/Repo-GitLab-fc6d26?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgAQMAAABJtOi3AAAABlBMVEUAAAD///+l2Z/dAAAAAXRSTlMAQObYZgAAAHJJREFUCNdNxKENwzAQQNEfWU1ZPUF1cxR5lYxQqQMkLEsUdIxCM7PMkMgLGB6wopxkYvAeI0xdHkqXgCLL0Beiqy2CmUIdeYs+WioqVF9C6/RlZvblRNZD8etRuKe843KKkBPw2azX13r+rdvPctEaFi4NVzAN2FhJMQAAAABJRU5ErkJggg==&style=for-the-badge" />
   </a>
 </div>
 <br/>
 <div align="center">
-  <a title="Version: 8.11.0" href="https://github.com/megabyte-labs/template-docker-compose" target="_blank">
+  <a title="Version: 8.11.0" href="https://github.com/megabyte-labs/Seafood-Restaurant" target="_blank">
     <img alt="Version: 8.11.0" src="https://img.shields.io/badge/version-8.11.0-blue.svg?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgAQMAAABJtOi3AAAABlBMVEUAAAD///+l2Z/dAAAAAXRSTlMAQObYZgAAACNJREFUCNdjIACY//+BEp9hhM3hAzYQwoBIAqEDYQrCZLwAAGlFKxU1nF9cAAAAAElFTkSuQmCC&cacheSeconds=2592000&style=flat-square" />
   </a>
-  <a title="GitLab build status" href="https://gitlab.com/megabyte-labs/templates/docker-compose/-/commits/master" target="_blank">
-    <img alt="Build status" src="https://img.shields.io/gitlab/pipeline-status/megabyte-labs/docker/docker-compose/template-docker-compose?branch=master&label=build&logo=gitlab&logoColor=white&style=flat-square">
+  <a title="GitLab build status" href="https://gitlab.com/megabyte-labs/docker/docker-compose/seafood-restaurant/-/commits/master" target="_blank">
+    <img alt="Build status" src="https://img.shields.io/gitlab/pipeline-status/megabyte-labs/docker/docker-compose/seafood-restaurant?branch=master&label=build&logo=gitlab&logoColor=white&style=flat-square">
   </a>
-  <a title="DockerHub image size" href="https://hub.docker.com/repository/docker/megabytelabs/template-docker-compose" target="_blank">
-    <img alt="Image size" src="https://img.shields.io/docker/image-size/megabytelabs/template-docker-compose?logo=docker&sort=date&logoColor=white&style=flat-square">
+  <a title="DockerHub image size" href="https://hub.docker.com/repository/docker/megabytelabs/seafood-restaurant" target="_blank">
+    <img alt="Image size" src="https://img.shields.io/docker/image-size/megabytelabs/seafood-restaurant?logo=docker&sort=date&logoColor=white&style=flat-square">
   </a>
-  <a title="DockerHub pulls" href="https://hub.docker.com/repository/docker/megabytelabs/template-docker-compose" target="_blank">
-    <img alt="Pulls" src="https://img.shields.io/docker/pulls/megabytelabs/template-docker-compose?logo=docker&logoColor=white&style=flat-square">
+  <a title="DockerHub pulls" href="https://hub.docker.com/repository/docker/megabytelabs/seafood-restaurant" target="_blank">
+    <img alt="Pulls" src="https://img.shields.io/docker/pulls/megabytelabs/seafood-restaurant?logo=docker&logoColor=white&style=flat-square">
   </a>
-  <a title="DockerHub stars" href="https://hub.docker.com/repository/docker/megabytelabs/template-docker-compose" target="_blank">
-    <img alt="Stars" src="https://img.shields.io/docker/stars/megabytelabs/template-docker-compose?logo=docker&logoColor=white&style=flat-square">
+  <a title="DockerHub stars" href="https://hub.docker.com/repository/docker/megabytelabs/seafood-restaurant" target="_blank">
+    <img alt="Stars" src="https://img.shields.io/docker/stars/megabytelabs/seafood-restaurant?logo=docker&logoColor=white&style=flat-square">
   </a>
   <a title="Documentation" href="https://megabyte.space/docs/docker" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg?logo=readthedocs&logoColor=white&style=flat-square" />
   </a>
-  <a title="License: MIT" href="https://github.com/megabyte-labs/template-docker-compose/blob/master/LICENSE" target="_blank">
+  <a title="License: MIT" href="https://github.com/megabyte-labs/Seafood-Restaurant/blob/master/LICENSE" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-yellow.svg?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgAQMAAABJtOi3AAAABlBMVEUAAAD///+l2Z/dAAAAAXRSTlMAQObYZgAAAHpJREFUCNdjYOD/wMDAUP+PgYHxhzwDA/MB5gMM7AwMDxj4GBgKGGQYGCyAEEgbMDDwAAWAwmk8958xpIOI5zKH2RmOyhxmZjguAiKmgIgtQOIYmFgCIp4AlaQ9OczGkJYCJEAGgI0CGwo2HmwR2Eqw5SBnNIAdBHYaAJb6KLM15W/CAAAAAElFTkSuQmCC&style=flat-square" />
   </a>
 </div>
 
-> </br><h4 align="center">**Starting point / instructions for creating a Docker Compose / Stack repository**</h4></br>
+> </br><h4 align="center">**Seafood Restaurant is a TunaSync-inspired Docker stack used to clone build dependency mirrors**</h4></br>
 
 <a href="#table-of-contents" style="width:100%"><img style="width:100%" src="https://gitlab.com/megabyte-labs/assets/-/raw/master/png/aqua-divider.png" /></a>
 
@@ -70,7 +70,7 @@
 - **[Node.js](repository.project.node)** (_>=14.18_) - Utilized to add development features like a pre-commit hook and maintenance tasks
 - _Many more_ requirements that are _dynamically installed_ as they are needed by our `Taskfile.yml` via our custom [go-task/task](https://github.com/go-task/task) fork named **[Bodega](https://github.com/ProfessorManhattan/Bodega)**
 
-If you choose to utilize the development tools provided by this project then at some point you will have to run `bash start.sh` (or `npm i` which calls `bash start.sh` after it is done). The `start.sh` script will attempt to automatically install any requirements (without sudo) that are not already present on your build system to the user's `~/.local/bin` folder. The `start.sh` script also takes care of other tasks such as generating the documentation by calling tasks defined in the `Taskfile.yml`. For more details on how the optional requirements are used and set up, check out the [CONTRIBUTING.md](https://gitlab.com/megabyte-labs/docker/docker-compose/template-docker-compose/-/blob/master/docs/CONTRIBUTING.md) guide.
+If you choose to utilize the development tools provided by this project then at some point you will have to run `bash start.sh` (or `npm i` which calls `bash start.sh` after it is done). The `start.sh` script will attempt to automatically install any requirements (without sudo) that are not already present on your build system to the user's `~/.local/bin` folder. The `start.sh` script also takes care of other tasks such as generating the documentation by calling tasks defined in the `Taskfile.yml`. For more details on how the optional requirements are used and set up, check out the [CONTRIBUTING.md](https://gitlab.com/megabyte-labs/docker/docker-compose/seafood-restaurant/-/blob/master/docs/CONTRIBUTING.md) guide.
 
 When you are ready to start development, run `task --menu` to open an interactive dialog that will help you understand what build commands we have already engineered for you.
 

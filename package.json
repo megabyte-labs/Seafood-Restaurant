@@ -1,18 +1,18 @@
 {
   "private": false,
-  "name": "@megabytelabs/template-docker-compose",
+  "name": "@megabytelabs/seafood-restaurant",
   "version": "8.11.0",
-  "description": "Starting point / instructions for creating a Docker Compose / Stack repository",
+  "description": "Seafood Restaurant is a TunaSync-inspired Docker stack used to clone build dependency mirrors",
   "license": "MIT",
   "author": "Brian Zalewski <brian@megabyte.space> (https://megabyte.space)",
   "homepage": "https://megabyte.space",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/megabyte-labs/template-docker-compose.git"
+    "url": "git+https://github.com/megabyte-labs/Seafood-Restaurant.git"
   },
   "bugs": {
     "email": "help@megabyte.space",
-    "url": "https://gitlab.com/megabyte-labs/templates/docker-compose/-/issues"
+    "url": "https://gitlab.com/megabyte-labs/docker/docker-compose/seafood-restaurant/-/issues"
   },
   "type": "commonjs",
   "main": "dist/main.js",
